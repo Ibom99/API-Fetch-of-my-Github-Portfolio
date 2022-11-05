@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Xanh+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+
+.main-container{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.home-container{
+  background-image: url(./Images/mathew-schwartz-3SWQCLmxH1U-unsplash.jpg);
+  background-size: cover;
+  height: 100vh;
+}
+.home-title{
+  color: #4A0404;
+  text-align:center;
+  margin-top: 17%;
+  font-size: 6rem;
+  letter-spacing: 10px;
+  font-family: 'Cinzel Decorative', cursive;
+
+}
+.home-description{
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px #4A0404 , 0 0 5px darkblue;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: 5px;
+}

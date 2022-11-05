@@ -1,0 +1,16 @@
+.errorpage{
+  background-color: #4A0404;  
+  height: 100vh;
+}
+.error{
+    text-align: center;
+    margin-top: 15%;
+    color: white;
+    /* background-color: orange; */
+}
+.header{
+    font-size: 3rem;
+}
+.errorDetails{
+    font-weight: bolder;
+}

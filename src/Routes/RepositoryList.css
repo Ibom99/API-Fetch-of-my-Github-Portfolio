@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap');
+
+.title{
+    text-align: center;
+    padding: 20px;
+    color: #4A0404;
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 2rem;
+}
+.repos{
+    text-align: center;
+    line-height: 60px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 5px 10px 10px  #4A0404;
+    border-left: dotted;
+    border-top: dotted;
+    border-color: #4A0404;
+    width: 30%;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+
+
